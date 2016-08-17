@@ -1,0 +1,14 @@
+layout_spectrum: 0.04486711951903999
+typography_spectrum: 0.9203873947262764
+color:
+  brandStrength: 0.4572235676459968
+  lightness: 0.8280418899375945
+  saturation: 0.5688362037763
+  rhythmicContrast: 0.27592856506817043
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: tabuux
